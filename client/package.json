@@ -27,7 +27,7 @@
     "start": "react-scripts start",
     "build": "npm i",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
     "dev": "npm run dev"
   },
   "eslintConfig": {
