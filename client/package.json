@@ -23,12 +23,11 @@
     "web-vitals": "^2.1.4",
     "yup": "^0.32.11"
   },
-  "scripts": {
+ "scripts": {
     "start": "react-scripts start",
-    "build": "npm i",
+    "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "dev": "npm run dev"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
